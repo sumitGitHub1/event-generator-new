@@ -1,0 +1,3 @@
+event\model\Event.class
+event\model\LocalDateTimeAdapter.class
+event\generator\EventGenerator.class
